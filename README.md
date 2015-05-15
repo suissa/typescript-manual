@@ -12,7 +12,7 @@ O [TypeScript](http://www.typescriptlang.org/) é um [superset]() de Javascript.
 
 Basicamente que ele agrega ao Javascript sem precisar mudar nada em como escrevemos normalmente, difernetemente do CoffeeScript que é um subset. NO caso do TypeScript se você escrever Javascript normalmente ele é um código de TypeScript válido e ainda inferencia os tipos sem você precisar escrever nada diferentes
 
-*\-Ué como assim?*
+**\- *Ué como assim?* **
 
 Certo. Vamos a um exemplo prático.
 
