@@ -1,12 +1,12 @@
 #TypeScript
 
-##Instalação
+Antes de tudo vamos instalá-o.
 
 ```
+npm install -g typescript
+```
 
-``
-
-O TypeScript é um [superset]() de Javascript.
+O [TypeScript](http://www.typescriptlang.org/) é um [superset]() de Javascript.
 
 *\- E o que isso quer dizer?*
 
@@ -31,7 +31,7 @@ ex01.ts(3,1): error TS2323: Type 'string' is not assignable to type 'number'.
 
 ![](https://cldup.com/bh0LdK7vJC-1200x1200.jpeg)
 
-Uma coisa bem interessante quando se usa TypeScript é que ele inferencia qual o tipo da variável sem que precisemos definir esse tipo.
+Além de inferenciar o tipo diretamente nas variáveis ele inferencia também nas funções como podemos ver abaixo.
 
 ```js
 function oi() {
