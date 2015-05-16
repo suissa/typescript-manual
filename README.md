@@ -1,7 +1,7 @@
 #TypeScript
 
 ##Instalação
-Antes de tudo vamos instalá-o.
+Antes de tudo vamos instalá-lo.
 
 ```
 npm install -g typescript
@@ -12,7 +12,7 @@ O [TypeScript](http://www.typescriptlang.org/) é um [superset]() de Javascript.
 
 *\- E o que isso quer dizer?*
 
-Basicamente que ele agrega ao Javascript sem precisar mudar nada em como escrevemos normalmente, difernetemente do CoffeeScript que é um subset. NO caso do TypeScript se você escrever Javascript normalmente ele é um código de TypeScript válido e ainda inferencia os tipos sem você precisar escrever nada diferentes
+Basicamente que ele agrega ao Javascript sem precisar mudar nada em como escrevemos normalmente, diferentemente do CoffeeScript que é um subset. No caso do TypeScript se você escrever Javascript normalmente ele é um código de TypeScript válido e ainda inferencia os tipos sem você precisar escrever nada diferente.
 
 *\-Ué como assim?*
 
