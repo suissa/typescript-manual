@@ -1,7 +1,7 @@
 #TypeScript
 
 ##Instalação
-Antes de tudo vamos instalá-o.
+Antes de tudo vamos instalá-lo.
 
 ```
 npm install -g typescript
